@@ -7,7 +7,7 @@ Grafik tabletler (Veikk, Wacom vb.) ve dijital kalemler ile kusursuz uyum sağla
 ✒️ 1. Gelişmiş Kalem ve Çizgi Motoru
 Pro & Basic Modlar: Basınç hassasiyetli pürüzsüz Pro mürekkep motoru veya sabit kalınlıkta hızlı Basic çizim modu.
 
-![Şekil Tanıma](assets/1.mp4)
+![Şekil Tanıma](assets/1.gif)
 
 Akıllı Geometrik Şekil Tanıma (Hold-to-Shape): Kalemi çizim sonunda kısa bir süre sabit tuttuğunuzda; el yazısı eğrilerinizi otomatik olarak kusursuz düz doğrulara, dairelere, dikdörtgenlere veya üçgenlere dönüştürür.
 
