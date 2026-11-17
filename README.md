@@ -29,16 +29,8 @@ Göz Koruma Filtreleri: Uzun süreli gece çalışmalarında göz yorgunluğunu 
 
 Düşük RAM Tüketimi: LRU (Least Recently Used) bellek yönetimiyle arka plandaki dokuları dinamik olarak yöneterek sistem kaynaklarını yormaz.
 
-🛠️ 4. Profesyonel Soru Çözüm Araçları
-Deneme Kronometresi: Sınav ve deneme çözerken süre tutabileceğiniz, 40 dk, 45 dk, 165 dk ve 180 dk gibi hazır YKS süre presetlerine sahip üst bar kronometresi.
 
-Bölünmüş Ekran (Split View): Aynı PDF'in cevap anahtarı sayfasını veya ikinci bir bölümünü yan panelde eş zamanlı görüntüleyebilme.
-
-Soru Kırpma Aracı (Hata Defteri): Zorlandığınız veya yanlış yaptığınız soruları şık bir şekilde kırparak panoya kopyalayabilir, hata defterinize klasörleyebilir veya PNG olarak kaydedebilirsiniz.
-
-Çözümlü PDF Dışa Aktarma: Üzerine not aldığınız ve çözüm yaptığınız sayfaları, orijinal kalitesini bozmadan filtreleyerek yeni bir PDF veya yüksek çözünürlüklü görsel olarak dışa aktarabilirsiniz.
-
-🌐 5. Çoklu Dil Desteği (Localization)
+🌐 4. Çoklu Dil Desteği (Localization)
 Arayüz dilini ayarlardan anında değiştirebilme: Türkçe, English, Deutsch, Français, Español.
 
 💻 Teknik Altyapı
