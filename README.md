@@ -20,6 +20,8 @@ Hızlı Favori Kalem Slotları: Sık kullanılan renk vekalem kalınlığı komb
 📄 2. Akıllı Çalışma Alanı ve Kağıt Seçenekleri
 Sağ Ekstra Çözüm Kağıdı: Zorlu soru ve test çözümleri için PDF sayfalarının sağ tarafında anında kareli, noktalı veya düz beyaz işlem alanı açabilme.
 
+![Çözüm Kağıdı](assets/2.gif)
+
 Özelleştirilebilir Kağıt Renkleri: Klasik Beyaz, Sıcak Krem/Sepya, Not Sarısı, Buz Mavisi, Nane Yeşili ve Gece Koyu olmak üzere 6 farklı kağıt tonu ve uyumlu kılavuz çizgileri.
 
 Göz Koruma Filtreleri: Uzun süreli gece çalışmalarında göz yorgunluğunu önleyen Orijinal Beyaz, Sıcak Sepya ve Loş Gece Modu filtreleri.
